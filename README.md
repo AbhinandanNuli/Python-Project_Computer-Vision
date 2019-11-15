@@ -1,1 +1,5 @@
 # Python-Project_Computer-Vision
+
+Problem Statement:
+
+It is every individual’s desire to have their home as well as vicinity clean and tidy. It creates a fresh aura in the surroundings which enables a healthy and hygienic of living. People dump all types of garbage including medical waste anywhere in the city without proper segregation, which is not environment friendly. However, this illegal dumping can also include hazardous waste which poses a big threat to the surroundings, such as introducing health issues. Our system proposes the method to detect the medical waste using object detection model YOLOv2. This System is user friendly and implicit in nature. It will improve the detection and sorting of the medical waste easily. The system generates appropriate responses relative to the input waste there by making it interactive and efficient. The camera captures image of the object to be thrown, if it is not a medical waste then the system will notify the end user by ringing alarm in max 3 sec. Because the system suggests that the dustbin is specifically meant for medical waste.
