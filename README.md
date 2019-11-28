@@ -1,5 +1,9 @@
-# Python-Project_Computer-Vision
+# Python-Project_Email Classification using Neural Networks
 
 Problem Statement:
+In this project, the goal is to classify the emails into 20 categories based on the words present in each of the email. Here I have used Deep Neural Networks in order to classify the data and I have taken 18,846 observations (11,314 for training the model and 7,532 for testing) and its corresponding classes/categories are 20. The data has been preprocessed using Natural Language Processing techniques to obtain the word vectors to map the final output.
 
-It is every individual’s desire to have their home as well as vicinity clean and tidy. It creates a fresh aura in the surroundings which enables a healthy and hygienic of living. People dump all types of garbage including medical waste anywhere in the city without proper segregation, which is not environment friendly. However, this illegal dumping can also include hazardous waste which poses a big threat to the surroundings, such as introducing health issues. Our system proposes the method to detect the medical waste using object detection model YOLOv2. This System is user friendly and implicit in nature. It will improve the detection and sorting of the medical waste easily. The system generates appropriate responses relative to the input waste there by making it interactive and efficient. The camera captures image of the object to be thrown, if it is not a medical waste then the system will notify the end user by ringing alarm in max 3 sec. Because the system suggests that the dustbin is specifically meant for medical waste.
+The NLP steps involved are: Pre-processing, Removal of punctuations, Word tokenization, Converting words into lowercase, Stop word removal, Keeping words of length of at least 3, Stemming words, POS tagging, Lemmatization of words. 
+
+The Libraries used in the project are Keras, Pandas, NLTK, Scikit Learn
+
